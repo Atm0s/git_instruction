@@ -16,8 +16,6 @@ LICENSE: [MIT](./license.md)
 7. [Ветвление](./branching.md)
 8. [Обновление и слияние](./updatemerge.md)
 9. [Замена локальных изменений](./local.md)
-10. [Синтаксис](./syntax.md)
-
     
 
 

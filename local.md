@@ -16,4 +16,4 @@
 >git reset --hard origin/master
 
 ---
-[*10. Синтаксис*](./syntax.md)
+[*На главную*](./readme.md)
