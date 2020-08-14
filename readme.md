@@ -1,16 +1,24 @@
-# Working with GIT instruction.
 # Инструкция по работе с GIT.
 
-![](./assets/git-logo.png)
+![gitLogo](./assets/git-logo.png)
 
 LICENSE: [MIT](./license.md)
 
 ---
 
 ### Содержание:
-1. Введение
+1. [Установка GIT](./install.md)
+2. [Создание нового репозитория](./createrep.md)
+3. [Получение репозитория](./getrep.md)
+4. [Рабочий процесс](./workflow.md)
+5. [Подготовка и коммит](./addcommit.md)
+6. [Отправка изменений](./push.md)
+7. [Ветвление](./branching.md)
+8. [Обновление и слияние](./updatemerge.md)
+9. [Замена локальных изменений](./local.md)
+10. [Синтаксис](./syntax.md)
+
     
-    2. [git add](./add.md)
 
 
 ---
